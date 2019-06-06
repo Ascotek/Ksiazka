@@ -1,295 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6314fe92-3241-484e-b8e3-f338dcdd92a4" name="Default Changelist" comment="Testowanie - cwiczenia">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/UltraGroup.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/JUnitParams_1_0_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_14.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mx4j_mx4j_3_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mx4j_mx4j_tools_3_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_wicket_wicket_1_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_8_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_all_1_10_19.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mortbay_jetty_jetty_6_1_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mortbay_jetty_jetty_management_6_1_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mortbay_jetty_jetty_util_6_1_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mortbay_jetty_servlet_api_2_5_6_1_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_4_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_4_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__pl_pragmatists_JUnitParams_1_0_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HelloWorld.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TDD/target/classes/TDD/Konwerter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TDD/target/test-classes/TDD/KonwerterTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ala.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ala_i_zwierzeta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ala_i_zwierzeta.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com.intellij.rt.execution.application.AppMainV2$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com.sun.jmx.remote.internal.ServerCommunicatorAdmin$Timeout.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imie" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imie.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imieP.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java.io.DeleteOnExitHook$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java.lang.ApplicationShutdownHooks$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java.lang.ref.Finalizer$FinalizerThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java.lang.ref.Reference$ReferenceHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java.lang.reflect.Method.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java.util.TimerThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java.util.concurrent.FutureTask.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java.util.concurrent.ThreadPoolExecutor$Worker.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java.util.logging.LogManager$Cleaner.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oracle.jrockit.jfr.JFR$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/META-INF/HelloWorld.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/DodatkoweCwiczenia/CircleEx.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/DodatkoweCwiczenia/Figure.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/DodatkoweCwiczenia/Rectangle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/DodatkoweCwiczenia/Tablice.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/DodatkoweCwiczenia/Testowanie.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/DodatkoweCwiczenia/TriangleEx.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/GIT_ZAD1/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/GIT_ZAD1/readme.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/GIT_ZAD1/start.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/GIT_ZAD1/temporary/Anglia.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/GIT_ZAD1/temporary/Niemcy.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/GIT_ZAD1/temporary/Polska.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/GIT_ZAD3/A.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/GIT_ZAD3/B.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/GIT_ZAD3/NOWY3/GIT_ZAD3/GIT_ZAD3/A.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/GIT_ZAD3/NOWY3/GIT_ZAD3/GIT_ZAD3/B.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/GIT_ZAD4/info.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/Hej/readme.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/Hello/Hello.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/JVM/LoadAndDeadlock$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/JVM/LoadAndDeadlock$AllocThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/JVM/LoadAndDeadlock$LockerThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/JVM/LoadAndDeadlock.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/JVM/NieskonczonaPetla.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/Nowy/bardzo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/Nowy/blue)" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/Nowy/cd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/Nowy/czas.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/Nowy/czerwony.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/Nowy/drzewo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/Nowy/git" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/Nowy/gitk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/Nowy/green" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/Nowy/green)" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/Nowy/lubie.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/Nowy/master" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/Nowy/master)" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/Nowy/slon.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/Nowy/swiat.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/SDA_HELLO/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/Testowy/swiat/swiat.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/Warehouse/EnumCzas.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/Warehouse/EnumFirma$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/Warehouse/EnumFirma.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/Warehouse/EnumPracownik.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/Warehouse/TestEnumFirma.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/data.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/lancuch.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/operacje/Bomba.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/operacje/Dzielenie.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/operacje/InstrukcjeSterujace.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/operacje/Kalkulator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/operacje/LoopFor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/operacje/MathOperations.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/operacje/Mnożenie.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/operacje/Odejmowanie.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/operacje/Parzystosc.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/operacje/PdFor1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/operacje/PdFor4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/operacje/PdForZadanie10.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/operacje/PdForZadanie5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/operacje/PdForZadanie6.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/operacje/PdZadanie3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/operacje/PdZadanie4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/operacje/PdZadanie8.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/operacje/PdZadanie9.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/operacje/PracaDomowa1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/operacje/ScannerExemple.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/operacje/SwitchExample.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/palindrom.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/palindrom2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/sobota/cda.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/sobota/many/Nowy dokument tekstowy (2).txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/sobota/many/Nowy dokument tekstowy.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/sobota/pooda.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/sobota/virus.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/swiat/swiat.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/witaj/readme.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia2/DoWhile.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia2/DoWhile2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia2/Dzialania.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia2/ExceptionEX.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia2/InstrukcjeWarunkowe.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia2/Larger.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia2/Liczba.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia2/Maximum.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia2/MetodyCwiczenia.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia2/MnozeniePd2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia2/Mnożenie.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia2/MultipleMethod.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia2/MultipleMethodPd1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia2/Pojazd.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia2/PoleFigurEx3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia2/PoleProstokataPD2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia2/ReadFile.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia2/ScannerSwichPD1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia2/Silnia.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia2/Sum.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia2/Tablica2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia2/Tablica5Pd.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia2/TablicaEX.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia2/TablicaPD1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia2/Tablice1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia2/TabliceEX3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia2/TabliceWieloEX2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia2/TabliceWielowymiarowe.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia2/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia2/TestPojazd.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia2/TryCatchEx.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia2/Value.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia2/While.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia2/WhileEX.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia2/ZapisOdczytEx2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia2/ZapisPliku.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia2/ZapisPlikuEx1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia2/getDistrictPD8.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia2/getLargerPD6.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia2/getMaxMinAndSumPD5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia2/getMaxPd2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia2/getMinPd3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia2/getSumPd4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia2/varargsEx.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia3/Bicycle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia3/Car.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia3/ChocolateBar.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia3/Circle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia3/Czas.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia3/Employee.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia3/Employer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia3/Firma.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia3/IPerson.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia3/Iemployee.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia3/Iemployer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia3/Market.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia3/Mleko.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia3/Party.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia3/Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia3/Pojazd.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia3/PracownicyTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia3/Pracownik.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia3/Product.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia3/Prostokat.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia3/PrzeciazanieMatod.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia3/Punkt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia3/Punkt2D.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia3/Punkt3D.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia3/Rectangle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia3/Shape.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia3/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia3/TestAbstractShape.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia3/TestCzas.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia3/TestEmployee.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia3/TestParty.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia3/TestPolimorfizm.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia3/TestProduct.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia3/TestProstokat.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia3/TestPrzeciazanie.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia3/TestPunkt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia3/TestPunkt2D.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia3/TestVehicle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia3/Vehicle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia4/Cwiczenia.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia4/CwiczeniaData.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia4/DataEx1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia4/DurationDateEx.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia4/Edytor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia4/Figura.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia4/GenericPair.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia4/GenericTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia4/KolekcjeEx1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia4/KolekcjeEx2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia4/KolekcjeEx4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia4/Kolo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia4/Kwadrat.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia4/LinkedListEx.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia4/LocalDateEx.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia4/MapEx.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia4/MapEx2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia4/MapaCountryEX.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia4/MetodyGeneryczne.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia4/OptionalEX1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia4/OsobaEX.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia4/OsobaTestEX.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia4/ParaLiczbEX.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia4/ParaLiczbTestEX.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia4/PracownikStreamEX.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia4/PropertiesEx.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia4/RegexEx.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia4/StreamEX14.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia4/StreamEx3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia4/StreamsEx.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia4/ZadaniaString.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia4/ZadanieListaEX.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia4/urodziny.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia5/Cwiczenie.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia5/Fibonaccio.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia5/Figura.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia5/Figura2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia5/FiguryPrzyklady.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia5/KwotaEX.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia5/LancuchZnakowEx.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia5/LancuchZnakowEx2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia5/LiczbyTrojkatne.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia5/PalindromEX.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia5/PalindromEx2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia5/Polindrom.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia5/PorownanieZnakow.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia5/Prostokat.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia5/SumaSrednia.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia5/TablicaEx2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia5/TablicaEx3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia5/TablicaFibonaccio.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia5/TablicaMaxMin.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia5/TablicaOdwrotna.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia5/ZliczanieTekstu.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/zajecia5/ZliczanieTekstuEx2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pl.com.dziendobry.JVM.LoadAndDeadlock$AllocThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pl.com.dziendobry.JVM.LoadAndDeadlock$LockerThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pl.com.dziendobry.JVM.LoadAndDeadlock.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/com/dziendobry" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/com/dziendobry/DodatkoweCwiczenia/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/com/dziendobry/DodatkoweCwiczenia/Fabryka.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/com/dziendobry/JVM/LoadAndDeadlock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/com/dziendobry/JVM/NieskonczonaPetla.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sun.nio.ch.FileChannelImpl$Unmapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sun.nio.fs.NativeBuffer$Deallocator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sun.rmi.transport.DGCAckHandler$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sun.rmi.transport.DGCImpl$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sun.rmi.transport.tcp.TCPTransport$AcceptLoop.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sun.rmi.transport.tcp.TCPTransport$ConnectionHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TDD/TDD.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TDD/src/test/java/TDD/UserTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/TDD/src/test/java/TDD/UserTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/JVM/KsiazkaAnaliza.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/JVM/KsiazkaAnaliza.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/JVM/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/JVM/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/JVM/PanTadeusz.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HelloWorld/pl/com/dziendobry/JVM/PanTadeusz.class" afterDir="false" />
+    <list default="true" id="6314fe92-3241-484e-b8e3-f338dcdd92a4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pl/com/dziendobry" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/com/dziendobry" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pl/com/dziendobry/DodatkoweCwiczenia/Testowanie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/com/dziendobry/DodatkoweCwiczenia/Testowanie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pl/com/dziendobry/JVM/KsiazkaAnaliza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/com/dziendobry/JVM/KsiazkaAnaliza.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pl/com/dziendobry/JVM/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/com/dziendobry/JVM/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pl/com/dziendobry/JVM/PanTadeusz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/com/dziendobry/JVM/PanTadeusz.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/TDD/target/" />
@@ -301,18 +17,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pl/com/dziendobry/JVM/PanTadeusz.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="38" selection-start-line="38" selection-end-line="38" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TDD/src/test/java/TDD/CarTest.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -349,7 +53,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/TDD/src/test/java/TDD/UserTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
+            <state relative-caret-position="68">
               <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -446,7 +150,7 @@
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/TDD" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -517,6 +221,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -540,150 +245,29 @@
               <item name="HelloWord" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="dziendobry" type="462c0819:PsiDirectoryNode" />
-              <item name="JVM" type="462c0819:PsiDirectoryNode" />
+              <item name="CwiczeniaJava" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="HelloWord" type="b2602c69:ProjectViewProjectNode" />
               <item name="HelloWord" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="dziendobry" type="462c0819:PsiDirectoryNode" />
-              <item name="SDA_HELLO" type="462c0819:PsiDirectoryNode" />
+              <item name="CwiczeniaJava" type="462c0819:PsiDirectoryNode" />
+              <item name="Cwiczenia" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="HelloWord" type="b2602c69:ProjectViewProjectNode" />
               <item name="HelloWord" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="dziendobry" type="462c0819:PsiDirectoryNode" />
-              <item name="sobota" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HelloWord" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HelloWord" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="dziendobry" type="462c0819:PsiDirectoryNode" />
-              <item name="swiat" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HelloWord" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HelloWord" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="dziendobry" type="462c0819:PsiDirectoryNode" />
-              <item name="TestowanieTDD" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HelloWord" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HelloWord" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="dziendobry" type="462c0819:PsiDirectoryNode" />
-              <item name="Warehouse" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HelloWord" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HelloWord" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="dziendobry" type="462c0819:PsiDirectoryNode" />
-              <item name="witaj" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HelloWord" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HelloWord" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="dziendobry" type="462c0819:PsiDirectoryNode" />
-              <item name="zajecia2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HelloWord" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HelloWord" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="dziendobry" type="462c0819:PsiDirectoryNode" />
-              <item name="zajecia3" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HelloWord" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HelloWord" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="dziendobry" type="462c0819:PsiDirectoryNode" />
-              <item name="zajecia4" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HelloWord" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HelloWord" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="dziendobry" type="462c0819:PsiDirectoryNode" />
-              <item name="zajecia5" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HelloWord" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HelloWord" type="462c0819:PsiDirectoryNode" />
-              <item name="TDD" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HelloWord" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HelloWord" type="462c0819:PsiDirectoryNode" />
-              <item name="TDD" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HelloWord" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HelloWord" type="462c0819:PsiDirectoryNode" />
-              <item name="TDD" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HelloWord" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HelloWord" type="462c0819:PsiDirectoryNode" />
-              <item name="TDD" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HelloWord" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HelloWord" type="462c0819:PsiDirectoryNode" />
-              <item name="TDD" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="TDD" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HelloWord" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HelloWord" type="462c0819:PsiDirectoryNode" />
-              <item name="TDD" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HelloWord" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HelloWord" type="462c0819:PsiDirectoryNode" />
-              <item name="TDD" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HelloWord" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HelloWord" type="462c0819:PsiDirectoryNode" />
-              <item name="TDD" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HelloWord" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HelloWord" type="462c0819:PsiDirectoryNode" />
-              <item name="TDD" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="TDD" type="462c0819:PsiDirectoryNode" />
+              <item name="CwiczeniaJava" type="462c0819:PsiDirectoryNode" />
+              <item name="Cwiczenia" type="462c0819:PsiDirectoryNode" />
+              <item name="butelka" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -691,7 +275,7 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559718249517" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559827150407" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -700,7 +284,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -878,7 +462,14 @@
       <option name="project" value="LOCAL" />
       <updated>1558556902332</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="dodanie nowego folderu">
+      <created>1559826299611</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1559826299611</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -925,7 +516,7 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49898168" visible="true" weight="0.28791946" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49898168" visible="true" weight="0.30402684" />
       <window_info id="Structure" order="1" sideWeight="0.50101835" side_tool="true" weight="0.22483222" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -941,7 +532,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3286119" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.33286119" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.16713881" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.16713881" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50067115" side_tool="true" weight="0.22521247" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3286119" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -1029,7 +620,8 @@
     <MESSAGE value="zliczanie slow" />
     <MESSAGE value="dodawanie TDD" />
     <MESSAGE value="zmiana druga" />
-    <option name="LAST_COMMIT_MESSAGE" value="zmiana druga" />
+    <MESSAGE value="dodanie nowego folderu" />
+    <option name="LAST_COMMIT_MESSAGE" value="dodanie nowego folderu" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1044,13 +636,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/Random.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="76" column="6" selection-start-line="76" selection-start-column="6" selection-end-line="76" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/pl/com/dziendobry/JVM/NieskonczonaPetla.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="305">
@@ -1573,9 +1158,12 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/CwiczeniaJava/Cwiczenia/src/butelka/PiosenkaOPiwie.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/TDD/src/test/java/TDD/UserTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
+        <state relative-caret-position="68">
           <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />

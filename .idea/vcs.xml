@@ -4,7 +4,10 @@
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/CwiczeniaJava" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/CwiczeniaJava/Cwiczenia" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TDD" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/pl/com/dziendobry" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/pl/com/dziendobry/CwiczeniaJava" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/pl/com/dziendobry/CwiczeniaJava/Cwiczenia" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/pl/com/dziendobry/DodatkoweCwiczenia" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/pl/com/dziendobry/GIT/Nowy" vcs="" />
     <mapping directory="$PROJECT_DIR$/src/pl/com/dziendobry/GIT_ZAD1" vcs="Git" />
