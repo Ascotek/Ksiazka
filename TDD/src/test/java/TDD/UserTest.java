@@ -27,7 +27,7 @@ public class UserTest {
 
     @Test
     public void firstAssertJTest(){
-       // assertThat(user.getName()).isEqualTo("Kasia");
+        assertThat(user.getName()).isEqualTo("Kasia");
 
        /* assertThat(user.getName()).endsWith("asia")
                 .startsWith("K")

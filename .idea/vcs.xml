@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CwiczeniaJava" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CwiczeniaJava/Cwiczenia" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/pl/com/dziendobry" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/pl/com/dziendobry/DodatkoweCwiczenia" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/pl/com/dziendobry/GIT/Nowy" vcs="" />
+    <mapping directory="$PROJECT_DIR$/src/pl/com/dziendobry/GIT_ZAD1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/pl/com/dziendobry/GIT_ZAD1/GIT_Zadanie1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/pl/com/dziendobry/GIT_ZAD3/GIT_ZAD3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/pl/com/dziendobry/GIT_ZAD3/NOWY3/GIT_ZAD3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/pl/com/dziendobry/Hej" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/pl/com/dziendobry/Nowy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/pl/com/dziendobry/SDA_HELLO" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/pl/com/dziendobry/Testowy/swiat" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/pl/com/dziendobry/sobota" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/pl/com/dziendobry/swiat" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/pl/com/dziendobry/witaj" vcs="Git" />
+  </component>
+</project>
