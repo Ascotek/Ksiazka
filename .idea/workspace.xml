@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6314fe92-3241-484e-b8e3-f338dcdd92a4" name="Default Changelist" comment="dodanie nowego folderu">
+    <list default="true" id="6314fe92-3241-484e-b8e3-f338dcdd92a4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pl/com/dziendobry" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/com/dziendobry" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pl/com/dziendobry/DodatkoweCwiczenia/Testowanie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/com/dziendobry/DodatkoweCwiczenia/Testowanie.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/TDD/target/" />
@@ -14,10 +17,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/pl/com/dziendobry/DodatkoweCwiczenia/pisanie_programu/ProstyPortalTester.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
+            <state relative-caret-position="388">
               <caret line="24" selection-start-line="24" selection-end-line="24" />
             </state>
           </provider>
@@ -27,41 +30,16 @@
         <entry file="file://$PROJECT_DIR$/src/pl/com/dziendobry/DodatkoweCwiczenia/pisanie_programu/Wynik.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
-              <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+              <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/pl/com/dziendobry/DodatkoweCwiczenia/pisanie_programu/PomieszanePetleFor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pl/com/dziendobry/DodatkoweCwiczenia/pisanie_programu/ProstyPortal.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="782">
-              <caret line="48" column="5" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
-              <folding>
-                <element signature="e#194#195#0" expanded="true" />
-                <element signature="e#244#245#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pl/com/dziendobry/DodatkoweCwiczenia/pisanie_programu/PomocnikGry.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
+            <state relative-caret-position="340">
               <caret line="20" selection-start-line="20" selection-end-line="20" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -80,7 +58,7 @@
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/pl/com/dziendobry/DodatkoweCwiczenia" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/pl/com/dziendobry/DodatkoweCwiczenia/pisanie_programu" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -150,6 +128,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -168,51 +148,10 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="dziendobry" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="HelloWord" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HelloWord" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="dziendobry" type="462c0819:PsiDirectoryNode" />
-              <item name="CwiczeniaJava" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HelloWord" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HelloWord" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="dziendobry" type="462c0819:PsiDirectoryNode" />
-              <item name="CwiczeniaJava" type="462c0819:PsiDirectoryNode" />
-              <item name="Cwiczenia" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HelloWord" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HelloWord" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="dziendobry" type="462c0819:PsiDirectoryNode" />
-              <item name="CwiczeniaJava" type="462c0819:PsiDirectoryNode" />
-              <item name="Cwiczenia" type="462c0819:PsiDirectoryNode" />
-              <item name="butelka" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HelloWord" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HelloWord" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="dziendobry" type="462c0819:PsiDirectoryNode" />
-              <item name="DodatkoweCwiczenia" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HelloWord" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HelloWord" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="dziendobry" type="462c0819:PsiDirectoryNode" />
-              <item name="DodatkoweCwiczenia" type="462c0819:PsiDirectoryNode" />
-              <item name="pisanie_programu" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -456,7 +395,7 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4978903" visible="true" weight="0.28993288" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4978903" visible="true" weight="0.29798657" />
       <window_info id="Structure" order="1" sideWeight="0.5021097" side_tool="true" weight="0.28590605" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -472,7 +411,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3286119" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.33286119" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.08356941" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.33002833" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50067115" side_tool="true" weight="0.22521247" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3286119" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -563,7 +502,8 @@
     <MESSAGE value="dodanie nowego folderu" />
     <MESSAGE value="portal" />
     <MESSAGE value="rozwiazanie" />
-    <option name="LAST_COMMIT_MESSAGE" value="rozwiazanie" />
+    <MESSAGE value="rozsypanka" />
+    <option name="LAST_COMMIT_MESSAGE" value="rozsypanka" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1044,13 +984,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pl/com/dziendobry/DodatkoweCwiczenia/pisanie_programu/ProstyPortalTester.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/pl/com/dziendobry/DodatkoweCwiczenia/pisanie_programu/ProstyPortal.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="782">
@@ -1064,7 +997,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/pl/com/dziendobry/DodatkoweCwiczenia/pisanie_programu/PomocnikGry.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
+        <state relative-caret-position="340">
           <caret line="20" selection-start-line="20" selection-end-line="20" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1072,17 +1005,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pl/com/dziendobry/DodatkoweCwiczenia/pisanie_programu/Wynik.java">
+    <entry file="file://$PROJECT_DIR$/src/pl/com/dziendobry/DodatkoweCwiczenia/pisanie_programu/PomieszanePetleFor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+        <state relative-caret-position="340">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pl/com/dziendobry/DodatkoweCwiczenia/pisanie_programu/PomieszanePetleFor.java">
+    <entry file="file://$PROJECT_DIR$/src/pl/com/dziendobry/DodatkoweCwiczenia/pisanie_programu/Wynik.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="170">
+          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/com/dziendobry/DodatkoweCwiczenia/pisanie_programu/ProstyPortalTester.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="388">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
         </state>
       </provider>
     </entry>
