@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6314fe92-3241-484e-b8e3-f338dcdd92a4" name="Default Changelist" comment="dodanie nowego folderu">
-      <change afterPath="$PROJECT_DIR$/src/pl/com/dziendobry/CwiczeniaJava/Cwiczenia/src/butelka/metody/Mix4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/com/dziendobry/CwiczeniaJava/Cwiczenia/src/butelka/metody/ZagadkowyBasen4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/com/dziendobry/CwiczeniaJava/Cwiczenia/src/butelka/metody/ZagadkowyBasen4b.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pl/com/dziendobry" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/com/dziendobry" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pl/com/dziendobry/DodatkoweCwiczenia/Testowanie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/com/dziendobry/DodatkoweCwiczenia/Testowanie.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/TDD/target/" />
@@ -20,28 +15,53 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pl/com/dziendobry/CwiczeniaJava/Cwiczenia/src/butelka/metody/Mix4.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="26" selection-start-line="26" selection-end-line="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/pl/com/dziendobry/CwiczeniaJava/Cwiczenia/src/butelka/metody/ZagadkowyBasen4.java">
+        <entry file="file://$PROJECT_DIR$/src/pl/com/dziendobry/DodatkoweCwiczenia/pisanie_programu/ProstyPortalTester.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="408">
-              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pl/com/dziendobry/CwiczeniaJava/Cwiczenia/src/butelka/metody/ZagadkowyBasen4b.java">
+        <entry file="file://$PROJECT_DIR$/src/pl/com/dziendobry/DodatkoweCwiczenia/pisanie_programu/Wynik.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+            <state relative-caret-position="170">
+              <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/pl/com/dziendobry/DodatkoweCwiczenia/pisanie_programu/PomieszanePetleFor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pl/com/dziendobry/DodatkoweCwiczenia/pisanie_programu/ProstyPortal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="782">
+              <caret line="48" column="5" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
+              <folding>
+                <element signature="e#194#195#0" expanded="true" />
+                <element signature="e#244#245#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pl/com/dziendobry/DodatkoweCwiczenia/pisanie_programu/PomocnikGry.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -60,16 +80,11 @@
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/pl/com/dziendobry/CwiczeniaJava/Cwiczenia" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/pl/com/dziendobry/DodatkoweCwiczenia" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/pl/com/dziendobry/zajecia2/MetodyCwiczenia.java" />
-        <option value="$PROJECT_DIR$/src/pl/com/dziendobry/DodatkoweCwiczenia/Tablice.java" />
-        <option value="$PROJECT_DIR$/src/pl/com/dziendobry/DodatkoweCwiczenia/Figure.java" />
-        <option value="$PROJECT_DIR$/src/pl/com/dziendobry/DodatkoweCwiczenia/CircleEx.java" />
-        <option value="$PROJECT_DIR$/src/pl/com/dziendobry/DodatkoweCwiczenia/Rectangle.java" />
         <option value="$PROJECT_DIR$/src/pl/com/dziendobry/DodatkoweCwiczenia/TriangleEx.java" />
         <option value="$PROJECT_DIR$/src/pl/com/dziendobry/DodatkoweCwiczenia/Testowanie.java" />
         <option value="$PROJECT_DIR$/src/pl/com/dziendobry/zajecia5/ZliczanieTekstuEx2.java" />
@@ -116,6 +131,11 @@
         <option value="$PROJECT_DIR$/src/pl/com/dziendobry/CwiczeniaJava/Cwiczenia/src/butelka/metody/Mix4.java" />
         <option value="$PROJECT_DIR$/src/pl/com/dziendobry/CwiczeniaJava/Cwiczenia/src/butelka/metody/ZagadkowyBasen4b.java" />
         <option value="$PROJECT_DIR$/src/pl/com/dziendobry/CwiczeniaJava/Cwiczenia/src/butelka/metody/ZagadkowyBasen4.java" />
+        <option value="$PROJECT_DIR$/src/pl/com/dziendobry/DodatkoweCwiczenia/pisanie_programu/ProstyPortal.java" />
+        <option value="$PROJECT_DIR$/src/pl/com/dziendobry/DodatkoweCwiczenia/pisanie_programu/PomocnikGry.java" />
+        <option value="$PROJECT_DIR$/src/pl/com/dziendobry/DodatkoweCwiczenia/pisanie_programu/ProstyPortalTester.java" />
+        <option value="$PROJECT_DIR$/src/pl/com/dziendobry/DodatkoweCwiczenia/pisanie_programu/Wynik.java" />
+        <option value="$PROJECT_DIR$/src/pl/com/dziendobry/DodatkoweCwiczenia/pisanie_programu/PomieszanePetleFor.java" />
       </list>
     </option>
   </component>
@@ -177,19 +197,15 @@
               <item name="HelloWord" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="dziendobry" type="462c0819:PsiDirectoryNode" />
-              <item name="CwiczeniaJava" type="462c0819:PsiDirectoryNode" />
-              <item name="Cwiczenia" type="462c0819:PsiDirectoryNode" />
-              <item name="butelka" type="462c0819:PsiDirectoryNode" />
+              <item name="DodatkoweCwiczenia" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="HelloWord" type="b2602c69:ProjectViewProjectNode" />
               <item name="HelloWord" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="dziendobry" type="462c0819:PsiDirectoryNode" />
-              <item name="CwiczeniaJava" type="462c0819:PsiDirectoryNode" />
-              <item name="Cwiczenia" type="462c0819:PsiDirectoryNode" />
-              <item name="butelka" type="462c0819:PsiDirectoryNode" />
-              <item name="metody" type="462c0819:PsiDirectoryNode" />
+              <item name="DodatkoweCwiczenia" type="462c0819:PsiDirectoryNode" />
+              <item name="pisanie_programu" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -204,7 +220,7 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560167772472" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560346397910" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -243,13 +259,52 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ZagadkowyBasen4">
-    <configuration name="Mix4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.com.dziendobry.CwiczeniaJava.Cwiczenia.src.butelka.metody.Mix4" />
+  <component name="RunManager" selected="Application.PomieszanePetleFor">
+    <configuration name="PomieszanePetleFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.com.dziendobry.DodatkoweCwiczenia.pisanie_programu.PomieszanePetleFor" />
       <module name="HelloWorld" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pl.com.dziendobry.CwiczeniaJava.Cwiczenia.src.butelka.metody.*" />
+          <option name="PATTERN" value="pl.com.dziendobry.DodatkoweCwiczenia.pisanie_programu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProstyPortal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.com.dziendobry.DodatkoweCwiczenia.pisanie_programu.ProstyPortal" />
+      <module name="HelloWorld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.com.dziendobry.DodatkoweCwiczenia.pisanie_programu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProstyPortalTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.com.dziendobry.DodatkoweCwiczenia.pisanie_programu.ProstyPortalTester" />
+      <module name="HelloWorld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.com.dziendobry.DodatkoweCwiczenia.pisanie_programu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Wynik" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.com.dziendobry.DodatkoweCwiczenia.pisanie_programu.Wynik" />
+      <module name="HelloWorld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.com.dziendobry.DodatkoweCwiczenia.pisanie_programu.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -270,66 +325,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KonwerterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="TDD" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="TDD.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="TDD" />
-      <option name="MAIN_CLASS_NAME" value="TDD.KonwerterTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="KonwerterTest.poprawnieZamienicMNaFeet" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="TDD" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="TDD.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="TDD" />
-      <option name="MAIN_CLASS_NAME" value="TDD.KonwerterTest" />
-      <option name="METHOD_NAME" value="poprawnieZamienicMNaFeet" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UserTest2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="TDD" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="TDD.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="TDD" />
-      <option name="MAIN_CLASS_NAME" value="TDD.UserTest2" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.Mix4" />
+      <item itemvalue="Application.PomieszanePetleFor" />
+      <item itemvalue="Application.ProstyPortalTester" />
+      <item itemvalue="Application.ProstyPortal" />
+      <item itemvalue="Application.Wynik" />
       <item itemvalue="Application.ZagadkowyBasen4" />
-      <item itemvalue="JUnit.KonwerterTest" />
-      <item itemvalue="JUnit.KonwerterTest.poprawnieZamienicMNaFeet" />
-      <item itemvalue="JUnit.UserTest2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PomieszanePetleFor" />
+        <item itemvalue="Application.Wynik" />
+        <item itemvalue="Application.ProstyPortal" />
+        <item itemvalue="Application.ProstyPortalTester" />
         <item itemvalue="Application.ZagadkowyBasen4" />
-        <item itemvalue="Application.Mix4" />
-        <item itemvalue="JUnit.KonwerterTest" />
-        <item itemvalue="JUnit.KonwerterTest.poprawnieZamienicMNaFeet" />
-        <item itemvalue="JUnit.UserTest2" />
       </list>
     </recent_temporary>
   </component>
@@ -393,7 +402,14 @@
       <option name="project" value="LOCAL" />
       <updated>1559826299611</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="portal">
+      <created>1560173176641</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1560173176642</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -440,8 +456,8 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49898168" visible="true" weight="0.27785236" />
-      <window_info id="Structure" order="1" sideWeight="0.50101835" side_tool="true" weight="0.22483222" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4978903" visible="true" weight="0.28993288" />
+      <window_info id="Structure" order="1" sideWeight="0.5021097" side_tool="true" weight="0.28590605" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
@@ -545,7 +561,9 @@
     <MESSAGE value="dodawanie TDD" />
     <MESSAGE value="zmiana druga" />
     <MESSAGE value="dodanie nowego folderu" />
-    <option name="LAST_COMMIT_MESSAGE" value="dodanie nowego folderu" />
+    <MESSAGE value="portal" />
+    <MESSAGE value="rozwiazanie" />
+    <option name="LAST_COMMIT_MESSAGE" value="rozwiazanie" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -560,70 +578,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/pl/com/dziendobry/TestowanieTDD/PrimeNumbersTestParaWielo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="12" selection-start-line="12" selection-end-line="12" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#816#817#0" expanded="true" />
-            <element signature="e#857#858#0" expanded="true" />
-            <element signature="e#960#961#0" expanded="true" />
-            <element signature="e#990#991#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pl/com/dziendobry/TestowanieTDD/PrimeNumbers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
-          <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#419#420#0" expanded="true" />
-            <element signature="e#465#466#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pl/com/dziendobry/TestowanieTDD/PrimeNumbersTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="27" column="27" lean-forward="true" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pl/com/dziendobry/TestowanieTDD/PrimeNumbersTestParametryzowany.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="35" column="29" selection-start-line="35" selection-start-column="29" selection-end-line="35" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#489#490#0" expanded="true" />
-            <element signature="e#545#546#0" expanded="true" />
-            <element signature="e#603#604#0" expanded="true" />
-            <element signature="e#639#640#0" expanded="true" />
-            <element signature="e#773#774#0" expanded="true" />
-            <element signature="e#827#828#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pl/com/dziendobry/TestowanieTDD/PrimeNumbersTestParamWielo2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="35" column="35" lean-forward="true" selection-start-line="35" selection-start-column="35" selection-end-line="35" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#850#851#0" expanded="true" />
-            <element signature="e#939#940#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/pl/com/dziendobry/TestowanieTDD/PrimeNumbersTestJUnitsParams.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="305">
@@ -1076,6 +1030,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/com/dziendobry/CwiczeniaJava/Cwiczenia/src/butelka/metody/ZagadkowyBasen4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/pl/com/dziendobry/CwiczeniaJava/Cwiczenia/src/butelka/metody/ZagadkowyBasen4b.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -1083,10 +1044,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pl/com/dziendobry/CwiczeniaJava/Cwiczenia/src/butelka/metody/ZagadkowyBasen4.java">
+    <entry file="file://$PROJECT_DIR$/src/pl/com/dziendobry/DodatkoweCwiczenia/pisanie_programu/ProstyPortalTester.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/com/dziendobry/DodatkoweCwiczenia/pisanie_programu/ProstyPortal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="48" column="5" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
+          <folding>
+            <element signature="e#194#195#0" expanded="true" />
+            <element signature="e#244#245#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/com/dziendobry/DodatkoweCwiczenia/pisanie_programu/PomocnikGry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/com/dziendobry/DodatkoweCwiczenia/pisanie_programu/Wynik.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/com/dziendobry/DodatkoweCwiczenia/pisanie_programu/PomieszanePetleFor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
